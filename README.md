@@ -1,6 +1,17 @@
-### revamped readme
+## YEETy8's README.txt
 
 <!--
-**YEETy8/YEETy8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+G'day I am getting back into coding, I guess?
 
-tests
+Using:
+[Visual Studio Code] 
+[C++] 
+
+
+
+
+My Summer Car Content Creator
+
+Link ~ https://www.youtube.com/channel/UCwcVLVxB_U_rsicK8TK04cA
+
+**YEETy8/YEETy8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
