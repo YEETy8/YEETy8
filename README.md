@@ -1,4 +1,4 @@
-## YEETy8's README.txt
+## YEETy8 README.txt
 
 <!--
 G'day I am getting back into coding, I guess?
